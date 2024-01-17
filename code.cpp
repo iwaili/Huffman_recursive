@@ -75,7 +75,7 @@ int main()
             }
         }
     }
-    //cout<<temp;
+    //cout<<temp<<endl;
     cout<<temp.size();
     string encrpyted="";
     return 0;
